@@ -1,4 +1,4 @@
-# [PT] Seja bem-vindo ao meu perfil! :wave: :fist:
+# Seja bem-vindo ao meu perfil! :wave: :fist:
 
 Sou um **Cientista de Dados** com sólida experiência em análise e visualização de dados, automação de processos e desenvolvimento de modelos de **Machine Learning**. 
 
@@ -12,7 +12,7 @@ mais diversas aplicações, desde modelos preditivos até aplicações de deep l
 
 Fique a vontade para entrar em contato comigo pelos links no final do texto!
 
-# [EN] Welcome to my Profile! :wave: :fist:
+# Welcome to my Profile! :wave: :fist:
 
 I am a Data Scientist with solid experience in data analysis and visualization, process automation, and development of Machine Learning models.
 
