@@ -3,7 +3,7 @@
 Sou um **Cientista de Dados** com sólida experiência em análise e visualização de dados, automação de processos e desenvolvimento de modelos de **Machine Learning**. 
 
 Formado em Engenharia Mecânica pela UFJF e com experiência no setor de **Adqurência (crédito)** e na **Indústria Farmacêutica**, desde a universidade trabalho com programação de modelos de inteligência artificial para as 
-mais diversas aplicações, desde modelos preditivos até aplicações de deep learning para visão computacional.
+mais diversas aplicações, desde modelos preditivos até aplicações de deep learning para visão computacional, além de prestar consultoria em dados para diversas empresas.
 
 - 💻 **Habilidades principais**:  
   - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, Tensor Flow, Keras) e RPA(Pyautogui, BeautifulSoup, Selenium).  
@@ -16,7 +16,7 @@ Fique a vontade para entrar em contato comigo pelos links no final do texto!
 
 I am a Data Scientist with solid experience in data analysis and visualization, process automation, and development of Machine Learning models.
 
-Graduated in Mechanical Engineering from UFJF and with experience in the Credit (Acquisition) sector and the Pharmaceutical Industry, I have been working with artificial intelligence model programming for various applications since university, ranging from predictive models to deep learning applications for computer vision.
+Graduated in Mechanical Engineering from UFJF, with experience in the Acquiring (credit) sector and the Pharmaceutical Industry, I have been working with programming artificial intelligence models since university. My expertise spans a variety of applications, from predictive models to deep learning applications for computer vision, as well as providing data consulting services for various companies.
 
 💻 **Key Skills**:
 - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, TensorFlow, Keras), and RPA (Pyautogui, BeautifulSoup, Selenium).
