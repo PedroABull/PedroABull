@@ -9,6 +9,7 @@ mais diversas aplicações, desde modelos preditivos até aplicações de deep l
   - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, Tensor Flow, Keras) e RPA(Pyautogui, BeautifulSoup, Selenium).  
   - **Power BI**: Criação de dashboards interativos e análises visuais para acompanhamento de métricas e KPIs.  
   - **Excel e VBA**: Automação de rotinas, construção de macros e otimização de processos em planilhas avançadas.
+  - **SQL**: Criação e consultas a bancos de dados, Data Engeneering.
 
 Fique a vontade para entrar em contato comigo pelos links no final do texto!
 
@@ -22,6 +23,7 @@ Graduated in Mechanical Engineering from UFJF, with experience in the Acquiring 
 - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, TensorFlow, Keras), and RPA (Pyautogui, BeautifulSoup, Selenium).
 - **Power BI**: Creation of interactive dashboards and visual analysis for monitoring metrics and KPIs.
 - **Excel and VBA**: Automation of routines, building macros, and optimizing processes in advanced spreadsheets.
+- **SQL**: Database creation and querying, Data Engineering.
 
 Feel free to contact me through the links below!
 
