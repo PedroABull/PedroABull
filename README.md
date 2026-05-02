@@ -1,32 +1,26 @@
 # Seja bem-vindo ao meu perfil! :wave: :fist:
 
-Sou um **Cientista de Dados** com sólida experiência em análise e visualização de dados, automação de processos e desenvolvimento de modelos de **Machine Learning**. 
+Sou um **Especialista em Planejamento e Cientista de Dados** com sólida experiência em análise e visualização de dados, automação de processos e desenvolvimento de modelos de **Machine Learning**. 
 
-Formado em Engenharia Mecânica pela UFJF e com experiência no setor de **Adqurência (crédito)** e na **Indústria Farmacêutica**, desde a universidade trabalho com programação de modelos de inteligência artificial para as 
-mais diversas aplicações, desde modelos preditivos até aplicações de deep learning para visão computacional.
+Formado em **Engenharia Mecânica** pela UFJF e Pós-Graduado em **Data Science & Advanced Analytics** pela PUC-RJ, meu foco é transformar grandes volumes de dados em decisões táticas e estratégicas, utilizando modelos preditivos para otimizar a cadeia de suprimentos, cenários operacionais/financeiros e a acuracidade de demanda.
 
-- 💻 **Habilidades principais**:  
+### Perfil Profissional:
+
+- **S&OP & Planejamento:** Experiência no setor farmacêutico e de adquirência, liderando ciclos de planejamento, governança de Demand Review.
+
+- **Data Science & Analytics:** Especialista em traduzir problemas de negócio em soluções de Machine Learning. Desenvolvo modelos de **Forecasting** (Modelos estatísticos, XGBoost, StatsForecast, etc..) focados em métricas críticas como **WMAPE**, **RMSE** e **Bias**. Tenho experiência também com diversos modelos de Classificação, Regressão e Clusterização.
+
+- **Visão de Negócio:** Foco total na jornada **"Crawl, Walk, Run"**, garantindo que a tecnologia sirva à maturidade do processo de planejamento.
+
+#### Tech Stack & Ferramentas:  
   - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, Tensor Flow, Keras) e RPA(Pyautogui, BeautifulSoup, Selenium).  
-  - **Power BI**: Criação de dashboards interativos e análises visuais para acompanhamento de métricas e KPIs.  
+  - **SQL**: Engenharia de dados e criação de consultas e bancos de dados complexos.
+  - **Power BI**: Criação de dashboards interativos avançados e análises visuais para acompanhamento de métricas e KPIs.  
   - **Excel e VBA**: Automação de rotinas, construção de macros e otimização de processos em planilhas avançadas.
-  - **SQL**: Criação e consultas a bancos de dados, Data Engeneering.
+  - **Engenharia**: Base analítica sólida para resolução de problemas complexos.
+  - **Inglês**: Nível Avançado
 
 Fique a vontade para entrar em contato comigo pelos links no final do texto!
-
-# Welcome to my Profile! :wave: :fist:
-
-I am a Data Scientist with solid experience in data analysis and visualization, process automation, and development of Machine Learning models.
-
-Graduated in Mechanical Engineering from UFJF, with experience in the Acquiring (credit) sector and the Pharmaceutical Industry, I have been working with programming artificial intelligence models since university. My expertise spans a variety of applications, from predictive models to deep learning applications for computer vision.
-
-💻 **Key Skills**:
-- **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, TensorFlow, Keras), and RPA (Pyautogui, BeautifulSoup, Selenium).
-- **Power BI**: Creation of interactive dashboards and visual analysis for monitoring metrics and KPIs.
-- **Excel and VBA**: Automation of routines, building macros, and optimizing processes in advanced spreadsheets.
-- **SQL**: Database creation and querying, Data Engineering.
-
-Feel free to contact me through the links below!
-
  
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/pedro-bull-0363ba1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
