@@ -10,7 +10,7 @@ Formado em **Engenharia Mecânica** pela UFJF e Pós-Graduado em **Data Science 
 
 - **Data Science & Analytics:** Especialista em traduzir problemas de negócio em soluções de Machine Learning. Desenvolvo modelos de **Forecasting** (Modelos estatísticos, XGBoost, StatsForecast, etc..) focados em métricas críticas como **WMAPE**, **RMSE** e **Bias**. Tenho experiência também com diversos modelos de Classificação, Regressão e Clusterização.
 
-- **Visão de Negócio:** Foco total na jornada **"Crawl, Walk, Run"**, garantindo que a tecnologia sirva à maturidade do processo de planejamento.
+- **Visão de Negócio:** Foco total em garantir que a tecnologia sirva à maturidade do processo de planejamento, desde o processo de governança e gestão do conhecimento até a construção de soluções focadas em resolver os problemas de negócio.
 
 #### Tech Stack & Ferramentas:  
   - **Python**: Advanced Analytics (Pandas, Matplotlib, Seaborn), Machine Learning (Sklearn, Tensor Flow, Keras) e RPA(Pyautogui, BeautifulSoup, Selenium).  
