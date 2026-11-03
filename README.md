@@ -2,13 +2,13 @@
 
 Sou um **Especialista em Planejamento e Cientista de Dados** com sólida experiência em análise e visualização de dados, automação de processos e desenvolvimento de modelos de **Machine Learning**. 
 
-Formado em **Engenharia Mecânica** pela UFJF e Pós-Graduado em **Data Science & Advanced Analytics** pela PUC-RJ, meu foco é transformar grandes volumes de dados em decisões táticas e estratégicas, utilizando modelos preditivos para otimizar a cadeia de suprimentos, cenários operacionais/financeiros e a acuracidade de demanda.
+Formado em **Engenharia Mecânica** pela UFJF, Pós-Graduado em **Data Science & Advanced Analytics** pela PUC-RJ e atualmente cursando uma segunda pós em **Data Science and Computer Vision** pela STAR Research Institute, meu foco é transformar grandes volumes de dados em decisões táticas e estratégicas, utilizando modelos preditivos para otimizar a cadeia de suprimentos, cenários operacionais/financeiros e a acuracidade da previsão de demanda.
 
 ### Perfil Profissional:
 
-- **S&OP & Planejamento:** Experiência no setor farmacêutico e de adquirência, liderando ciclos de planejamento, governança de Demand Review.
+- **S&OP & Planejamento:** Experiência no setor farmacêutico e de adquirência, liderando ciclos de planejamento, governança de Planejamento Integrado.
 
-- **Data Science & Analytics:** Especialista em traduzir problemas de negócio em soluções de Machine Learning. Desenvolvo modelos de **Forecasting** (Modelos estatísticos, XGBoost, StatsForecast, etc..) focados em métricas críticas como **WMAPE**, **RMSE** e **Bias**. Tenho experiência também com diversos modelos de Classificação, Regressão e Clusterização.
+- **Data Science & Analytics:** Especialista em traduzir problemas de negócio em soluções de Machine Learning. Desenvolvo modelos de **Forecasting** (Modelos estatísticos clássicos, séries temporais, Machine Learning, Gradient Boosting, etc..) focados em métricas críticas como **Acuracidade**, **WMAPE**, **RMSE** e **Bias**. Tenho experiência também com diversos modelos de Classificação, Regressão, Clusterização e Deep Learning.
 
 - **Visão de Negócio:** Foco total em garantir que a tecnologia sirva à maturidade do processo de planejamento, desde o processo de governança e gestão do conhecimento até a construção de soluções focadas em resolver os problemas de negócio.
 
